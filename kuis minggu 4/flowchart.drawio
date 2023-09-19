@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" modified="2023-09-19T09:39:26.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="srtC5eiWbI35SYxwRzfp" version="21.7.4" type="device">
+  <diagram name="Halaman-1" id="uErzqLF8Eav1b0TLDHTz">
+    <mxGraphModel dx="1400" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <object label="" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-3" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="22" width="120" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-4" value="&lt;ul style=&quot;margin: 4px 0px; padding-inline-start: 36px; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; data-sourcepos=&quot;52:1-63:0&quot;&gt;&lt;li style=&quot;margin-bottom: 10px;&quot; data-sourcepos=&quot;53:1-53:63&quot;&gt;Input pilihan:&amp;nbsp;Pilihan yang ingin dilakukan oleh pengguna&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="120" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z1lInbOqoQKVoyba9n0a-5" target="Z1lInbOqoQKVoyba9n0a-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-5" value="&lt;ul style=&quot;margin: 4px 0px; padding-inline-start: 36px; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; data-sourcepos=&quot;52:1-63:0&quot;&gt;&lt;li style=&quot;margin-bottom: 10px;&quot; data-sourcepos=&quot;54:1-54:52&quot;&gt;Tambah item:&amp;nbsp;Menambah item ke daftar pembelian&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="230" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z1lInbOqoQKVoyba9n0a-7" target="Z1lInbOqoQKVoyba9n0a-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-7" value="&lt;ul style=&quot;margin: 4px 0px; padding-inline-start: 36px; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; data-sourcepos=&quot;48:1-58:0&quot;&gt;&lt;li style=&quot;margin-bottom: 10px;&quot; data-sourcepos=&quot;51:1-51:54&quot;&gt;Hapus item:&amp;nbsp;Menghapus item dari daftar pembelian&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="340" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z1lInbOqoQKVoyba9n0a-9" target="Z1lInbOqoQKVoyba9n0a-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-9" value="&lt;ul style=&quot;margin: 4px 0px; padding-inline-start: 36px; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; data-sourcepos=&quot;48:1-58:0&quot;&gt;&lt;li style=&quot;margin-bottom: 10px;&quot; data-sourcepos=&quot;52:1-52:44&quot;&gt;Hitung total:&amp;nbsp;Menghitung total belanja&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z1lInbOqoQKVoyba9n0a-10" target="Z1lInbOqoQKVoyba9n0a-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-10" value="&lt;ul style=&quot;margin: 4px 0px; padding-inline-start: 36px; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; data-sourcepos=&quot;48:1-58:0&quot;&gt;&lt;li style=&quot;margin-bottom: 10px;&quot; data-sourcepos=&quot;53:1-53:65&quot;&gt;Reset transaksi:&amp;nbsp;Menghapus semua item dari daftar pembelian&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="570" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z1lInbOqoQKVoyba9n0a-11" target="Z1lInbOqoQKVoyba9n0a-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-11" value="&lt;ul style=&quot;margin: 4px 0px; padding-inline-start: 36px; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; data-sourcepos=&quot;48:1-58:0&quot;&gt;&lt;li style=&quot;margin-bottom: 10px;&quot; data-sourcepos=&quot;82:1-82:69&quot;&gt;Tampilkan item:&amp;nbsp;Daftar item yang telah dibeli akan ditampilkan.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="702" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z1lInbOqoQKVoyba9n0a-12" target="Z1lInbOqoQKVoyba9n0a-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-12" value="&lt;ul style=&quot;margin: 4px 0px; padding-inline-start: 36px; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; data-sourcepos=&quot;76:1-86:0&quot;&gt;&lt;li style=&quot;margin-bottom: 10px;&quot; data-sourcepos=&quot;83:1-83:90&quot;&gt;Check order:&amp;nbsp;Akan diperiksa apakah ada item yang memiliki jumlah atau harga negatif.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="860" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z1lInbOqoQKVoyba9n0a-13" target="Z1lInbOqoQKVoyba9n0a-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-13" value="&lt;ul style=&quot;margin: 4px 0px; padding-inline-start: 36px; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; data-sourcepos=&quot;76:1-86:0&quot;&gt;&lt;li style=&quot;margin-bottom: 10px;&quot; data-sourcepos=&quot;84:1-84:71&quot;&gt;Total setelah diskon:&amp;nbsp;Total belanja setelah diskon akan dihitung.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="990" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Z1lInbOqoQKVoyba9n0a-3" target="Z1lInbOqoQKVoyba9n0a-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="100" as="sourcePoint" />
+            <mxPoint x="460" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.46;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Z1lInbOqoQKVoyba9n0a-4" target="Z1lInbOqoQKVoyba9n0a-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="370" as="sourcePoint" />
+            <mxPoint x="600" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1lInbOqoQKVoyba9n0a-21" value="&lt;ul style=&quot;border-color: var(--border-color); margin: 4px 0px; padding-inline-start: 36px; color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; data-sourcepos=&quot;76:1-86:0&quot;&gt;&lt;li style=&quot;border-color: var(--border-color); margin-bottom: 10px;&quot; data-sourcepos=&quot;85:1-86:0&quot;&gt;Terima kasih! Program selesai:&amp;nbsp;Program akan berakhir.&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1130" width="290" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
